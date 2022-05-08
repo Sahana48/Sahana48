@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **sahanacs48@gmail.com**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahana c.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahana c.s" height="30" width="40" /></a>
