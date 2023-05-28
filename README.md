@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahana C.S</h1>
-<h3 align="center">A Passionate Learner .I'm a prefinal year student pursuing Bachelor's in EC from GEC Hassan. I'm always willing to learn and work across technologies .</h3>
+<h3 align="center">A Passionate Learner .I'm a final year student pursuing Bachelor's in EC from GEC Hassan. I'm always willing to learn and work across technologies .</h3>
 <img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/business-woman-clerk-working-office-desk_3446-679.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahana48&label=Profile%20views&color=0e75b6&style=flat" alt="sahana48" /> </p>
